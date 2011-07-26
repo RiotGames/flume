@@ -42,6 +42,30 @@
       <scope>test</scope>
     </dependency>
 
+    <dependency>
+      <groupId>net.opentsdb</groupId>
+      <artifactId>tsdb</artifactId>
+      <version>1.0</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.hbase</groupId>
+      <artifactId>asynchbase</artifactId>
+      <version>1.0</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.stumbleupon</groupId>
+      <artifactId>suasync</artifactId>
+      <version>1.0</version>
+    </dependency>
+
+    <dependency>
+        <groupId>commons-configuration</groupId>
+        <artifactId>commons-configuration</artifactId>
+        <version>1.6</version>
+    </dependency>
+
   </dependencies>
 
 </project>
